@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stop&amp;wait:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/stop_wait_jar</output-path>
+    <root id="archive" name="stop&amp;wait.jar">
+      <element id="module-output" name="stop&amp;wait" />
+    </root>
+  </artifact>
+</component>
